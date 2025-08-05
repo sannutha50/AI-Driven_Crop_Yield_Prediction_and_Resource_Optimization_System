@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib.pyplot
+mysql.connector
+google.generativeai
+graphviz
+bcrypt
+mysql-connector-python
